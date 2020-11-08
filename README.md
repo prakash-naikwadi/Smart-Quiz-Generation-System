@@ -1,2 +1,2 @@
-# Smart-Quiz-Generation-Web-App
-Last Year Project
+# Smart-Quiz-Generation-System
+Final Year Project
